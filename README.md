@@ -15,9 +15,31 @@ This repository is dedicated to a comprehensive collection of DevOps projects de
  
  ### To run the server_status.sh script, follow these steps:
 
-- You can just navigate to the folder containing the script.
-- Make the script executable by running the command:
-            chmod +x server_status.sh
- - Execute the script in the terminal by running:
-            ./server_status.sh
+### 1. Clone the Repository
+Start by cloning this repository to your local machine: 
 
+to clone copy this link 
+```bash
+git clone https://github.com/vick4infotech/DEVOPS-PROJECTS.git
+```
+
+Navigate to the Script Directory
+Navigate to the folder containing the server_status.sh script:
+```bash
+cd DEVOPS-PROJECTS/<path-to-script>
+```
+🔹 Note: Replace <path-to-script> with the actual path to the script within the repository.
+
+3️⃣ Make the Script Executable
+
+Provide the necessary execution permissions to the script:
+```
+chmod +x server_status.sh
+```
+
+4️⃣ Run the Script
+Execute the script by running:
+
+```
+./server_status.sh
+```
