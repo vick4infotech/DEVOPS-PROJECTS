@@ -11,4 +11,5 @@ This repository is dedicated to a comprehensive collection of DevOps projects de
    - **Contents:**
      - Scripts for analyzing CPU, memory, and disk usage.
      - CLI tools for real-time monitoring.
+   - ** Project URL: https://roadmap.sh/projects/server-stats
 
