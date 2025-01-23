@@ -12,9 +12,8 @@ This repository is dedicated to a comprehensive collection of DevOps projects de
      - Scripts for analyzing CPU, memory, and disk usage.
      - CLI tools for real-time monitoring.
    - **Project URL**: https://roadmap.sh/projects/server-stats
-   - To run the server_status.sh script, follow these steps:
-
-### To run the server_status.sh script, follow these steps:
+ 
+ ### To run the server_status.sh script, follow these steps:
 
 - You can just navigate to the folder containing the script.
 - Make the script executable by running the command:
